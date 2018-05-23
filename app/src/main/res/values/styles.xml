@@ -7,5 +7,22 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="AppThemeMain" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/colorPink</item>
+    </style>
 
+    <style name="AppThemeJoin" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorSky</item>
+        <item name="colorAccent">@color/colorPink</item>
+    </style>
+
+
+    <style name="AppThemeState" parent="Theme.AppCompat.DayNight">
+        <!--<item name="colorPrimary">@color/color3</item>-->
+        <item name="colorAccent">@color/colorPink</item>
+    </style>
+
+    <style name="MyEditTextTheme">
+        <item name="colorControlNormal">@color/colorGray</item>
+    </style>
 </resources>
