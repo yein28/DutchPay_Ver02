@@ -3,4 +3,20 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="color1">#3DA8A4</color>
+    <color name="color2">#7ACCBE</color>
+    <color name="color3">#FFFFF7</color>
+    <color name="color4">#FF99A1</color>
+    <color name="color5">#FF5879</color>
+
+    <color name="colorBlue">#016A96</color>
+    <color name="colorSky">#1097D0</color>
+    <color name="colorDeep">#12ACED</color>
+    <color name="colorOrange">#F8BAA1</color>
+    <color name="colorRed">#ED636D</color>
+    <color name="colorPink">#FA7D87</color>
+
+    <color name="colorGray">#D4D4D4</color>
+    <color name="colorGrayDeep">#737373</color>
 </resources>
