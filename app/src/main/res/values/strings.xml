@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">DutchPay</string>
 
+    <string name="check">확인</string>
+
     <!-- Login Activity -->
     <string name="login">로그인</string>
     <string name="google_login">구글 로그인</string>
@@ -12,4 +14,8 @@
 
 
     <!-- Join Activity -->
+    <string name="require_email">이메일을 입력해주세요</string>
+    <string name="require_passwd">비밀번호</string>
+    <string name="check_passwd_again">비밀번호 확인</string>
+    <string name="passwd_rule">비밀번호 규칙 설명 해야됨 </string>
 </resources>
